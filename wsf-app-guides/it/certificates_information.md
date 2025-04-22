@@ -2,27 +2,13 @@
 
 Informazioni per tutti i certificati.
 
-### [Avex:](accent://)
-
-**Autorizzazioni**:
-
-Notifiche push: Sconosciuto
-
-**Scadenza**:
-
-31/03/2025: ✅
-
-**Note**:
-
-Compatibile solo con ESign.
-
 ### [Continent:](accent://)
 
 **Autorizzazioni**:
 
-Notifiche push: 🟢
+Notifche Push: 🟢
 
-**Scadenza**:
+**Scadenza**: 
 
 13/06/2025: ✅
 
@@ -30,29 +16,19 @@ Notifiche push: 🟢
 
 **Autorizzazioni**:
 
-Notifiche push: 🟢
+Notifche Push: 🟢
 
-**Scadenza**:
+**Scadenza**: 
 
 28/05/2025: ✅
-
-### [Ministere:](accent://)
-
-**Autorizzazioni**:
-
-Notifiche push: 🟢
-
-**Scadenza**:
-
-03/04/2025: ✅
 
 ### [Sunshine 1:](accent://)
 
 **Autorizzazioni**:
 
-Notifiche push: 🟢
+Notifche Push: 🟢
 
-**Scadenza**:
+**Scadenza**: 
 
 13/09/2025: ✅
 
@@ -60,22 +36,32 @@ Notifiche push: 🟢
 
 **Autorizzazioni**:
 
-Notifiche push: 🟢
+Notifche Push: 🟢
 
-**Scadenza**:
+**Scadenza**: 
 
-06/06/2025: ✅
+6/06/2025: ✅
+
+### [Toyota:](accent://)
+
+**Autorizzazioni**:
+
+Notifche Push: 🟢
+
+**Scadenza**: 
+
+7/10/2025: ✅
 
 ### [VietnamElec:](accent://)
 
 **Autorizzazioni**:
 
-Notifiche push: Sconosciuto
+Notifche Push: Sconosciuto
 
-**Scadenza**:
+**Scadenza**: 
 
 23/05/2025: ✅
 
-**Note**:
+**Notes**:
 
-Compatibile solo con ESign.
+Only compatible with ESign.
